@@ -1,0 +1,26 @@
+Image 0003.png sees 5765 3D points
+Image 0004.png sees 5765 3D points
+found 4730 points, 2365 unique points
+Register image 0000.png from 2365 correspondences
+0000.png registered
+found 10937 points, 4348 unique points
+Register image 0001.png from 4348 correspondences
+0001.png registered
+found 19285 points, 6521 unique points
+Register image 0002.png from 6521 correspondences
+0002.png registered
+found 17902 points, 4998 unique points
+Register image 0005.png from 4998 correspondences
+0005.png registered
+found 19592 points, 5054 unique points
+Register image 0006.png from 5054 correspondences
+0006.png registered
+found 19500 points, 4822 unique points
+Register image 0007.png from 4822 correspondences
+0007.png registered
+found 14991 points, 3763 unique points
+Register image 0008.png from 3763 correspondences
+0008.png registered
+found 11481 points, 2801 unique points
+Register image 0009.png from 2801 correspondences
+0009.png registered
